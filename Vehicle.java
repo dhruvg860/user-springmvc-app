@@ -1,4 +1,4 @@
 interface Vehicle
 {
-void start();
+public void start();
 }
