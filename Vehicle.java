@@ -15,7 +15,7 @@ class TestCar
 {
 public static void main(String[] args)
 {
-Vehicle v= new TestCar();
+Vehicle v= new car();
 v.start();
 }
  }
